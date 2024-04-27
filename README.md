@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="SoundHub.png" alt="SoundHub" style="display:block; margin:auto; transform: scale(5.0);" />
+  <img src="SoundHub.png" alt="SoundHub" style="display:block; margin:auto; transform: scale(10.0);" />
 </p>
 
 # SoundHub 🎵
